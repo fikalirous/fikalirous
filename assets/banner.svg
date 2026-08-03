@@ -1,0 +1,33 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2C4A3D"/>
+      <stop offset="100%" stop-color="#1C2420"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- topographic contour motif -->
+  <g fill="none" stroke="#5B8A73" stroke-width="1.5" opacity="0.35">
+    <path d="M -50 220 Q 200 160, 450 210 T 950 190 T 1300 230"/>
+    <path d="M -50 250 Q 220 190, 470 240 T 970 220 T 1300 260"/>
+    <path d="M -50 190 Q 180 130, 430 175 T 930 150 T 1300 190"/>
+  </g>
+  <g fill="none" stroke="#A9762F" stroke-width="1.5" opacity="0.3">
+    <path d="M -50 160 Q 250 90, 520 140 T 1000 110 T 1300 150"/>
+  </g>
+
+  <text x="70" y="118" font-family="Georgia, 'Iowan Old Style', serif" font-size="46" font-weight="600" fill="#F4F5F1">
+    Gokulnath G L
+  </text>
+  <text x="70" y="156" font-family="Segoe UI, sans-serif" font-size="21" fill="#C7CFC3">
+    Data for international development — climate, policy &amp; public health
+  </text>
+
+  <rect x="70" y="182" width="64" height="4" fill="#A9762F"/>
+
+  <text x="70" y="222" font-family="Segoe UI, sans-serif" font-size="15" fill="#93A092">
+    MSc Social Data Science, University College Dublin
+  </text>
+</svg>
