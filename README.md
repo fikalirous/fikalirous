@@ -28,27 +28,3 @@ A sample — the full set of case studies (with real data, methods, and figures)
 | 🏥 **[TB surveillance database, NIRT](https://fikalirous.github.io/portfolio/public-health.html)** | Database design behind a survey covering ~9M people across 753 districts |
 
 ---
-
-### Repositories
-
-<p align="center">
-  <a href="https://github.com/fikalirous/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fikalirous&repo=portfolio&theme=default&hide_border=true" alt="portfolio repo card"/>
-  </a>
-  <a href="https://github.com/fikalirous/portfolio-Interactive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fikalirous&repo=portfolio-Interactive&theme=default&hide_border=true" alt="portfolio-Interactive repo card"/>
-  </a>
-</p>
-
-*(Pin these — or any others — directly on your profile too: **Customize your pins** on your GitHub profile page picks up to 6 repos to feature above this README.)*
-
----
-
-### Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fikalirous&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikalirous&theme=default&hide_border=true" alt="GitHub streak stats"/>
-</p>
-
-Your day-to-day contribution graph (the green squares) renders automatically below this README on your profile page — no setup needed.
