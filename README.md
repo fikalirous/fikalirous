@@ -21,7 +21,7 @@ A sample — the full set of case studies (with real data, methods, and figures)
 
 | Project | What it is |
 |---|---|
-| 🤖 **[Mapping the Global AI Regulatory Landscape](https://fikalirous.github.io/portfolio/research.html)** | Quantitative text analysis across 33 countries' AI regulation, MSc coursework |
+| 🤖 **[Mapping the Global AI Regulatory Landscape](https://fikalirous.github.io/portfolio/research.html)** | Quantitative text analysis across 33 countries' AI regulation |
 | ⚖️ **[UDID Implementation Study, Pacta](https://fikalirous.github.io/portfolio/policy-rights.html)** | Survey analysis behind a published disability-rights implementation report |
 | 🔬 **[Agent-based model of AI regulation compliance](https://portfolio-gokulnath.streamlit.app/Research)** | Live simulator — drag the sliders and re-run the model yourself |
 | 🌦️ **[Automated weather stations, Gram Vikas](https://fikalirous.github.io/portfolio/climate-agriculture.html)** | Led installation across 7 blocks, 6 districts of Odisha — 600+ farmers engaged directly |
