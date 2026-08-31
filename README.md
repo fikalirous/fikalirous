@@ -17,8 +17,6 @@ I've spent four years turning field data into decisions — weather stations tha
 
 ### Projects
 
-A sample — the full set of case studies (with real data, methods, and figures) lives on the two portfolio sites above.
-
 | Project | What it is |
 |---|---|
 | 🤖 **[Mapping the Global AI Regulatory Landscape](https://portfolio-gokulnath.streamlit.app/~/+/Research#mapping-the-global-ai-regulatory-landscape)** | Quantitative text analysis across 33 countries' AI regulation based on insights from Whitecase "AI Watch: Global regulatory tracker"|
