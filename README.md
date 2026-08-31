@@ -18,7 +18,7 @@ Passionate data professional with experience applying data-driven approaches in 
 
 | Project | What it is |
 |---|---|
-| 🤖 **[Mapping the Global AI Regulatory Landscape](https://portfolio-gokulnath.streamlit.app/~/+/Research#mapping-the-global-ai-regulatory-landscape)** | Quantitative text analysis across 33 countries' AI regulation based on insights from Whitecase "AI Watch: Global regulatory tracker"|
+| **[Reserach](https://portfolio-gokulnath.streamlit.app/Research)** | human values and digital inclusion using the European Social Survey, a quantitative text analysis of global AI regulation, and an agent-based model of regulatory compliance.|
 | ⚖️ **[UDID Implementation Study, Pacta](https://fikalirous.github.io/portfolio/policy-rights.html)** | The study focuses on the descriptive analysis Unique Disability Identity card distribution across some states of India, and also highlights the challenges faced by by parents/caregivers in obtaining the UDID |
 | 🔬 **[Agent-based model of AI regulation compliance](https://portfolio-gokulnath.streamlit.app/Research)** | Live simulator — drag the sliders and re-run the model yourself |
 | 🌦️ **[Automated weather stations, Gram Vikas](https://fikalirous.github.io/portfolio/climate-agriculture.html)** | Led installation across 7 blocks, 6 districts of Odisha — 600+ farmers engaged directly |
