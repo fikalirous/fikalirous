@@ -20,7 +20,7 @@ Passionate data professional with experience applying data-driven approaches in 
 |---|---|
 | **[Research](https://portfolio-gokulnath.streamlit.app/Research)** | human values and digital inclusion using the European Social Survey, a quantitative text analysis of global AI regulation, and an agent-based model of regulatory compliance.|
 | ⚖️ **[Policy & Rights](https://portfolio-gokulnath.streamlit.app/Policy_Rights)** | Quantitative research in disability, law, and CSR at Pacta, a Bengaluru-based law firm and think tank — built on web scraping, EDA, and NLP applied to policy implementation gaps.|
-| 🔬 **[Agent-based model of AI regulation compliance](https://portfolio-gokulnath.streamlit.app/Research)** | Live simulator — drag the sliders and re-run the model yourself |
+| 🔬 **[Agent-based model of AI regulation compliance](https://portfolio-gokulnath.streamlit.app/~/+/Research#adoption-of-ai-regulation-live-agent-based-model)** | Live simulator — drag the sliders and re-run the model yourself |
 | 🌦️ **[Automated weather stations, Gram Vikas](https://fikalirous.github.io/portfolio/climate-agriculture.html)** | Led installation across 7 blocks, 6 districts of Odisha — 600+ farmers engaged directly |
 | 🏥 **[TB surveillance database, NIRT](https://fikalirous.github.io/portfolio/public-health.html)** | Database design behind a survey covering ~9M people across 753 districts |
 
