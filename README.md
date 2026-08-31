@@ -4,7 +4,7 @@
 
 ### About me
 
-I've spent four years turning field data into decisions — weather stations that reach 600+ farmers in Odisha, disability-rights datasets that shape policy briefs, TB surveillance databases that support district health teams. I'm currently completing an MSc in Social Data Science at University College Dublin, and looking for data roles at international development organizations. My work sits at the intersection of technical rigor and social impact — climate & agriculture, disability rights, public health, and gender equity.
+Passionate data professional with experience applying data-driven approaches in the social development sector across India. With a background in engineering and hands-on expertise in research, data management, and visualization, I've worked on projects spanning disability rights, gender equity, public health, renewable energy, and rural development.I'm currently completing an MSc in Social Data Science at University College Dublin, and looking for data roles at international development organizations. My work sits at the intersection of technical rigor and social impact — environment, disability rights, public health, and gender equity.
 
 <p align="left">
   <a href="mailto:work00gokul@gmail.com"><img src="https://img.shields.io/badge/Gmail-work00gokul%40gmail.com-A9762F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
