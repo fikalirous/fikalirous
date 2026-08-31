@@ -9,7 +9,6 @@ Passionate data professional with experience applying data-driven approaches in 
 <p align="left">
   <a href="mailto:work00gokul@gmail.com"><img src="https://img.shields.io/badge/Gmail-work00gokul%40gmail.com-A9762F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/gokulnath-g-l-13071a178/"><img src="https://img.shields.io/badge/LinkedIn-Gokulnath%20G%20L-3F6353?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://fikalirous.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Static%20site-2C4A3D?style=flat-square&logo=quarto&logoColor=white" alt="Static portfolio"/></a>
   <a href="https://portfolio-gokulnath.streamlit.app/"><img src="https://img.shields.io/badge/Portfolio-Interactive%20site-A9762F?style=flat-square&logo=streamlit&logoColor=white" alt="Interactive portfolio"/></a>
 </p>
 
