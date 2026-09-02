@@ -18,10 +18,9 @@ Passionate data professional with experience applying data-driven approaches in 
 
 | Project | What it is |
 |---|---|
-| 🔍 **[Research](https://portfolio-gokulnath.streamlit.app/Research)** | Human values and digital inclusion using the European Social Survey, a quantitative text analysis of global AI regulation, and an agent-based model of regulatory compliance.|
-| ⚖️ **[Policy & Rights](https://portfolio-gokulnath.streamlit.app/Policy_Rights)** | Quantitative analysis in disability, law, and CSR at Pacta, a Bengaluru-based law firm and think tank — built on web scraping, EDA, and NLP applied to policy implementation gaps.|
 | 🔬 **[The Cloud's Footprint](https://fikalirous.github.io/data-center-lens/)** | Mapping the world's data center infrastructure against the carbon, water, and land footprints of the electricitythat powers it — grounded in UNU-INWEH's 2026 global assessment of AI's environmental cost.|
-| 🌦️ **[Automated weather stations, Gram Vikas](https://fikalirous.github.io/portfolio/climate-agriculture.html)** | Led installation across 7 blocks, 6 districts of Odisha — 600+ farmers engaged directly |
-| 🏥 **[TB surveillance database, NIRT](https://fikalirous.github.io/portfolio/public-health.html)** | Database design behind a survey covering ~9M people across 753 districts |
+| 🔍 **[Mapping the Global AI Regulatory Landscape](https://portfolio-gokulnath.streamlit.app/Research?section=AI+Regulatory+Landscape)** |  a quantitative text analysis of global AI regulation.|
+| ⚖️ **[Policy & Rights](https://portfolio-gokulnath.streamlit.app/Policy_Rights)** | Quantitative analysis in disability, law, and CSR at Pacta, a Bengaluru-based law firm and think tank — built on web scraping, EDA, and NLP applied to policy implementation gaps.|
+| 🔍 **[Adoption of AI Regulation](https://portfolio-gokulnath.streamlit.app/Research?section=AI+Regulation+%E2%80%94+ABM+Simulator)** |  an agent-based model of regulatory compliance.|
 
 ---
